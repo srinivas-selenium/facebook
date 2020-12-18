@@ -1,0 +1,80 @@
+2020-12-18 13:59:18,828 - facebook -INFO - Url is Open
+2020-12-18 13:59:18,892 - facebook -INFO - Enter user name
+2020-12-18 13:59:19,056 - facebook -INFO - Enter Password 
+2020-12-18 13:59:23,229 - facebook -INFO - Login test pass
+2020-12-18 14:04:04,695 - facebook -INFO - Url is Open
+2020-12-18 14:04:04,768 - facebook -INFO - Enter user name
+2020-12-18 14:04:05,405 - facebook -INFO - Enter Password 
+2020-12-18 14:04:10,045 - facebook -INFO - Login test faild
+2020-12-18 14:06:03,820 - facebook -INFO - Url is Open
+2020-12-18 14:06:03,985 - facebook -INFO - Enter user name
+2020-12-18 14:06:04,140 - facebook -INFO - Enter Password 
+2020-12-18 14:06:09,933 - facebook -INFO - Login test pass
+2020-12-18 14:07:01,229 - facebook -INFO - Url is Open
+2020-12-18 14:07:01,267 - facebook -INFO - Enter user name
+2020-12-18 14:07:01,418 - facebook -INFO - Enter Password 
+2020-12-18 14:07:05,766 - facebook -INFO - Login test faild
+2020-12-18 14:08:33,002 - facebook -INFO - Url is Open
+2020-12-18 14:08:33,040 - facebook -INFO - Enter user name
+2020-12-18 14:08:33,197 - facebook -INFO - Enter Password 
+2020-12-18 14:08:37,277 - facebook -INFO - Login test faild
+2020-12-18 14:10:43,497 - facebook -INFO - Url is Open
+2020-12-18 14:10:43,551 - facebook -INFO - Enter user name
+2020-12-18 14:10:43,719 - facebook -INFO - Enter Password 
+2020-12-18 14:10:50,621 - facebook -INFO - Login test faild
+2020-12-18 15:11:31,459 - facebook -INFO - Url is Open
+2020-12-18 15:11:31,491 - facebook -INFO - Enter user name
+2020-12-18 15:11:31,621 - facebook -INFO - Enter Password 
+2020-12-18 15:11:45,231 - facebook -INFO - Login test faild
+2020-12-18 15:26:25,291 - facebook -INFO - Url is Open
+2020-12-18 15:26:25,325 - facebook -INFO - Enter user name
+2020-12-18 15:26:25,469 - facebook -INFO - Enter Password 
+2020-12-18 15:26:28,774 - facebook -INFO - Login test pass
+2020-12-18 16:01:07,065 - facebook -INFO - Url is Open
+2020-12-18 16:01:07,103 - facebook -INFO - Enter user name
+2020-12-18 16:01:07,393 - facebook -INFO - Enter Password 
+2020-12-18 16:01:11,432 - facebook -INFO - Login test pass
+2020-12-18 16:04:00,122 - facebook -INFO - Url is Open
+2020-12-18 16:04:00,162 - facebook -INFO - Enter user name
+2020-12-18 16:04:00,308 - facebook -INFO - Enter Password 
+2020-12-18 16:04:02,712 - facebook -INFO - Login test pass
+2020-12-18 16:06:08,275 - facebook -INFO - Url is Open
+2020-12-18 16:06:08,315 - facebook -INFO - Enter user name
+2020-12-18 16:06:08,484 - facebook -INFO - Enter Password 
+2020-12-18 16:06:10,452 - facebook -INFO - Login test faild
+2020-12-18 16:15:57,119 - facebook -INFO - Url is Open
+2020-12-18 16:15:57,191 - facebook -INFO - Enter user name
+2020-12-18 16:15:57,349 - facebook -INFO - Enter Password 
+2020-12-18 16:19:52,534 - facebook -INFO - Url is Open
+2020-12-18 16:19:52,598 - facebook -INFO - Enter user name
+2020-12-18 16:19:52,736 - facebook -INFO - Enter Password 
+2020-12-18 16:51:16,839 - facebook -INFO - Url is Open
+2020-12-18 16:51:16,880 - facebook -INFO - Enter user name
+2020-12-18 20:06:39,579 - facebook -INFO - Url is Open
+2020-12-18 20:06:39,641 - facebook -INFO - Enter user name
+2020-12-18 20:10:23,132 - facebook -INFO - Url is Open
+2020-12-18 20:10:23,165 - facebook -INFO - Enter user name
+2020-12-18 20:13:32,734 - facebook -INFO - Url is Open
+2020-12-18 20:13:32,775 - facebook -INFO - Enter user name
+2020-12-18 20:13:33,184 - facebook -INFO - Enter Password 
+2020-12-18 20:17:12,783 - facebook -INFO - Url is Open
+2020-12-18 20:17:12,819 - facebook -INFO - Enter user name
+2020-12-18 20:17:12,966 - facebook -INFO - Enter Password 
+2020-12-18 21:21:50,826 - facebook -INFO - Url is Open
+2020-12-18 21:21:51,000 - facebook -INFO - Enter user name
+2020-12-18 21:21:51,497 - facebook -INFO - Enter Password 
+2020-12-18 21:48:53,092 - facebook -INFO - Url is Open
+2020-12-18 21:48:53,218 - facebook -INFO - Enter user name
+2020-12-18 21:48:53,364 - facebook -INFO - Enter Password 
+2020-12-18 21:51:04,853 - facebook -INFO - Url is Open
+2020-12-18 21:51:04,888 - facebook -INFO - Enter user name
+2020-12-18 21:51:05,686 - facebook -INFO - Enter Password 
+2020-12-18 21:51:07,268 - facebook -INFO - Login test pass
+2020-12-18 21:55:18,885 - facebook -INFO - Url is Open
+2020-12-18 21:55:18,925 - facebook -INFO - Enter user name
+2020-12-18 21:55:19,078 - facebook -INFO - Enter Password 
+2020-12-18 21:55:19,326 - facebook -INFO - Login test pass
+2020-12-18 22:13:03,734 - facebook -INFO - Url is Open
+2020-12-18 22:13:03,771 - facebook -INFO - Enter user name
+2020-12-18 22:13:04,155 - facebook -INFO - Enter Password 
+2020-12-18 22:13:08,346 - facebook -INFO - Login test faild
